@@ -374,5 +374,3 @@ func main() {
 		}
 	}
 }
-
-var k int
